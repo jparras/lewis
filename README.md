@@ -2,7 +2,7 @@
 
 ## Introduction
 
-CThis code implements the LEWIS (LEarning WIth Security) algorithm and the two use cases published in Parras, J., Apellániz, P.A., & Zazo, S. (2022). An online learning algorithm to play discounted repeated games in wireless networks. Engineering Applications of Artificial Intelligence, 107, 104520. [DOI](https://doi.org/10.1016/j.engappai.2021.104520).
+This code implements the LEWIS (LEarning WIth Security) algorithm and the two use cases published in Parras, J., Apellániz, P.A., & Zazo, S. (2022). An online learning algorithm to play discounted repeated games in wireless networks. Engineering Applications of Artificial Intelligence, 107, 104520. [DOI](https://doi.org/10.1016/j.engappai.2021.104520).
 
 ## Launch
 
