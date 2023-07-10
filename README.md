@@ -6,7 +6,7 @@ CThis code implements the LEWIS (LEarning WIth Security) algorithm and the two u
 
 ## Launch
 
-To launch each of the use cases, simply run the two python scripts in each folder (`base_stations.py` for the Distributed Power Control, and ìnterference_2.py` for the Interference Mitigation case). 
+To launch each of the use cases, simply run the two python scripts in each folder (`base_stations.py` for the Distributed Power Control, and `ìnterference.py` for the Interference Mitigation case). 
 
 You will need the following libraries:
 * `numpy`
